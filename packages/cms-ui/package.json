@@ -1,6 +1,6 @@
 {
   "name": "cms-ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "CMS-UI",
   "author": "肖帅 <276990481@qq.com>",
   "homepage": "src/index.ts",
